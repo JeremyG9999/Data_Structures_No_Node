@@ -1,16 +1,17 @@
-# Data Structures Without Nodes
+# 🧮 Data Structures Without Nodes
 
-This repository contains Python implementations of classic data structures that avoid using node pointers. Instead, built-in Python data types like lists and arrays are used for efficient and straightforward implementations.
+⚙️ This repository contains Python implementations of classic data structures that avoid using node pointers.  
+Instead, built-in Python data types like lists and arrays are used for efficient and straightforward implementations.
 
-## Features
+## ✨ Features
 
-- **Stack** – Using Python list to simulate LIFO behavior.
-- **Queue** – FIFO queue implemented without pointers.
-- **Deque** – Double-ended queue without pointers.
-- **Linked List** – Simulated linked list using lists, no explicit node class.
-- **Heap** – Min-heap or max-heap implementation using arrays.
+- 📦 **Stack** – Using Python list to simulate LIFO behavior.  
+- 📬 **Queue** – FIFO queue implemented without pointers.  
+- 🔄 **Deque** – Double-ended queue without pointers.  
+- 🧱 **Linked List** – Simulated linked list using lists, no explicit node class.  
+- ⛏️ **Heap** – Min-heap or max-heap implementation using arrays.  
 
-## Getting Started
+## 🚀 Getting Started
 
 Clone the repository:
 
